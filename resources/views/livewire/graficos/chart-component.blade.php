@@ -39,11 +39,11 @@
             },
             plotOptions: {
                 bar: {
-                    borderRadius: '50%',
+                    borderRadius: '10%',
                     dataLabels: {
                         enabled: true
                     },
-                    groupPadding: 0.1
+                    groupPadding: 0.15
                 }
             },
             legend: {

@@ -44,6 +44,7 @@
                                         </span>
                                     </td>
                                     <td class="text-center text-dark">{{ $p->namecategoria }}</td>
+                                    
                                     <td class="text-center text-dark">
                                         {!! QrCode::size(100)->generate($p->name); !!}
                                         <p>{{ $p->id }}</p>

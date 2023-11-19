@@ -5,7 +5,7 @@
           <div class="modal-content">
               <div class="modal-header">
                   <h5 class="modal-title" id="exampleModalLabel">
-                      <b>{{ $pageTitle }} CRUD NOHEMI</b>
+                      <b>{{ $pageTitle }} CRUD ADMIN</b>
                   </h5>
               </div>
               <div class="modal-body">
